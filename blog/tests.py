@@ -41,4 +41,4 @@ class BlogTests(TestCase):
         self.assertTemplateUsed(response, 'post_detail.html')
 
 
-# Create your tests here.
+#   Create your tests here.
